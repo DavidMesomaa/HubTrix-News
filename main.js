@@ -1,0 +1,1 @@
+alert('Just be prepared for less expectations.\n No JavaScript Functionality Yet 😥😥.\n By Mesoma.')
